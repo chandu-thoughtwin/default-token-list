@@ -9,8 +9,16 @@
   },
   {
     "name": "Custom ERC20 Token",
-    "address": "0xd222a876B303dAe4F8e2099ba3B26ECB5A1b8521",
-    "symbol": "ERC20S",
+    "address": "0xdC611CB835787AB17483D841F06de8ebE433c72C",
+    "symbol": "ThoughtwinToken",
+    "decimals": 18,
+    "chainId": 1287,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
+  },
+  {
+    "name": "Custom ERC20 Token",
+    "address": "0xB81F45022612a8E9DfDb588b1552b9268e781209",
+    "symbol": "DIFIFiToken",
     "decimals": 18,
     "chainId": 1287,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
